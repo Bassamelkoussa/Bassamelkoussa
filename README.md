@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/bassamelkoussa/))
-
 ## About Me
 Highly skilled AI Engineer with expertise in Generative AI and Rapid Prototyping. I'm passionate about leveraging AI to generate actionable insights and foster innovation across industries.
 
@@ -28,5 +26,3 @@ Highly skilled AI Engineer with expertise in Generative AI and Rapid Prototyping
 - Metrics: Latency, Accuracy, Precision, Recall, AUC, Rouge, Bleu, Chain of Thoughts
 
 Let's connect and explore innovative solutions to real-world problems. Feel free to reach out for collaborations or consultations.
-
-[Connect with me on LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/bassamelkoussa/)https://www.linkedin.com/in/bassamelkoussa/)
