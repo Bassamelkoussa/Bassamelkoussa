@@ -9,7 +9,7 @@ Highly skilled AI Engineer with expertise in Generative AI and Rapid Prototyping
 
 ### Generative AI
 - LLM: Proprietary and Open-Source LLM-as-a-Service 
-- Retrieval Augmented Generation: LangChain, LlamaIndex, Pinecone, Chroma, Weaviate
+- Retrieval Augmented Generation: LangChain, LlamaIndex, Vector Stores
 
 ### Machine Learning & AI
 - Frameworks: PyTorch, Transformers, XGBoost, LoRA, PEFT
